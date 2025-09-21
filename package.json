@@ -1,0 +1,12 @@
+{
+  "name": "node-minimal-lab",
+  "version": "1.0.0",
+  "description": "Minimal Node.js lab project with Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
